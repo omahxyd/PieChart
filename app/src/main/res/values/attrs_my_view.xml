@@ -1,0 +1,20 @@
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+        <attr name="titulo" format="string"/>
+        <attr name="campo1" format="string"/>
+        <attr name="campo2" format="string"/>
+        <attr name="valorcmp1" format="float"/>
+        <attr name="valorcmp2" format="float"/>
+        <attr name="colorltscmp1" format="color"/>
+        <attr name="colorltscmp2" format="color"/>
+        <attr name="colorcampo1" format="color"/>
+        <attr name="colorcampo2" format="color"/>
+        <attr name="clrtitle" format="color"/>
+        <attr name="txtheight" format="dimension"/>
+        <attr name="txtwidth" format="dimension"/>
+    </declare-styleable>
+</resources>

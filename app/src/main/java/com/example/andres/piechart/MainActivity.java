@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-//Final merge
+//Conflict resolution branch 1
 public class MainActivity extends Activity {
 
     @Override

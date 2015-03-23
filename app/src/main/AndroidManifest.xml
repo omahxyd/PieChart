@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Comment-->
+    <!--Comment asdasda conflict-->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.andres.piechart" >
 
